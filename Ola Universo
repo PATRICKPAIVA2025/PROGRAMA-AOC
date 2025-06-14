@@ -1,0 +1,9 @@
+#INCLUDE <stdio>
+
+int main(){
+
+printf("ola, Universo!\n");
+
+return 0;
+
+{
