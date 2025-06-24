@@ -1,9 +1,6 @@
-#INCLUDE <stdio>
+#include <stdio.h>
 
 int main(){
-
-printf("ola, Universo!\n");
-
+printf("Ola, Universo!\n");
 return 0;
-
-{
+}
